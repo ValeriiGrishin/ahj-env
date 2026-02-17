@@ -1,9 +1,5 @@
-[![CI](https://github.com/ValeriiGrishin/ahj-dom/actions/workflows/web.yml/badge.svg)](https://github.com/ValeriiGrishin/ahj-dom/actions/workflows/web.yml)
-# Игра "Whack-a-Goblin" 
+![CI](https://github.com/ValeriiGrishin/ahj-env/actions/workflows/web.yml/badge.svg)
+# Webpack5
 
-## Описание
-Игра "Ударь гоблина". Гоблин прыгает по клеткам каждые 2 секунды. 
-Успей кликнуть по нему, чтобы заработать очки!
-
-## Ссылка на игру
-https://valeriigrishin.github.io/ahj-dom/
+[Руководство по настройке Webpack](https://webpack.js.org/guides/)
+[Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
